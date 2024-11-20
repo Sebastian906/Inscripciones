@@ -15,7 +15,8 @@ class InterfazConsola:
             print("2. Mostrar total de materias por estudiante")
             print("3. Filtrar estudiantes por materia")
             print("4. Exportar datos")
-            print("5. Salir")
+            print("5. Mostrar consultas avanzadas")
+            print("6. Salir")
 
             opcion = input("\nSeleccione una opción: ")
 
@@ -28,6 +29,8 @@ class InterfazConsola:
             elif opcion == "4":
                 self.exportar_datos()
             elif opcion == "5":
+                self.menu_consultas()
+            elif opcion == "6":
                 print("¡Hasta luego!")
                 break
             else:
