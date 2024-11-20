@@ -1,0 +1,4 @@
+1234567,Lulú López,1040  # Línea incompleta
+9876534,Pepito Pérez,1040,Cálculo
+datos_incorrectos
+4567766,Calvin Clein,1050,Física I,dato_extra

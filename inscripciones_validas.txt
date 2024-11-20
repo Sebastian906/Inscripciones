@@ -1,0 +1,5 @@
+1234567,Lulú López,1040,Cálculo
+9876534,Pepito Pérez,1040,Cálculo
+4567766,Calvin Clein,1050,Física I
+1234567,Lulú López,1060,Administración
+4567766,Calvin Clein,1070,Espíritu Empresarial

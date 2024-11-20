@@ -1,0 +1,44 @@
+[
+  {
+    "cedula": "1234567",
+    "estudiante": "Lulú López",
+    "codigo_materia": "1040",
+    "materia": "Cálculo"
+  },
+  {
+    "cedula": "9876534",
+    "estudiante": "Pepito Pérez",
+    "codigo_materia": "1040",
+    "materia": "Cálculo"
+  },
+  {
+    "cedula": "4567766",
+    "estudiante": "Calvin Clein",
+    "codigo_materia": "1050",
+    "materia": "Física I"
+  },
+  {
+    "cedula": "1234567",
+    "estudiante": "Lulú López",
+    "codigo_materia": "1060",
+    "materia": "Administración"
+  },
+  {
+    "cedula": "4567766",
+    "estudiante": "Calvin Clein",
+    "codigo_materia": "1070",
+    "materia": "Espíritu Empresarial"
+  },
+  {
+    "cedula": "1010148621",
+    "estudiante": "Sebastián Salazar",
+    "codigo_materia": "1040",
+    "materia": "Cálculo"
+  },
+  {
+    "cedula": "1010148621",
+    "estudiante": "Sebastián Salazar",
+    "codigo_materia": "1070",
+    "materia": "Espíritu Empresarial"
+  }
+]
